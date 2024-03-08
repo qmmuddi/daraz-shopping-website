@@ -5,6 +5,7 @@
 
 .container-0 {
     height: 20px;
+    max-width:100%;
     background-color: orangered;
 }
 
