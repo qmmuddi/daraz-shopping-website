@@ -45,7 +45,9 @@ a {
     display: block;
     width: 100px;
 }
-
+i{
+    margin:7px;
+}
 i:hover {
     border: 1px solid black;
     border-radius: 20px;
